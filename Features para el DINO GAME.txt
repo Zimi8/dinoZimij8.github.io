@@ -1,0 +1,10 @@
+ESTILOS Y FUNCIONES PARA EL DINO GAME 
+
+-ESTILO
+Blur las nubes
+
+
+
+-FUNCIONES
+cada 400 puntos, el dinosaurio cambia de color. 
+
